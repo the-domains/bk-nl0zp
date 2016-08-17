@@ -1,4 +1,3 @@
-layout_spectrum: 0.762524951249361
 typography_spectrum: 0.33030582149513066
 color:
   brandStrength: 0.3700046839658171
@@ -6,9 +5,11 @@ color:
   saturation: 0.1083068372681737
   rhythmicContrast: 0.5263128508813679
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.762524951249361
 name: BK
+title: BK PHOTOGRAPHY
